@@ -168,7 +168,7 @@ nav img {
 @media screen and (max-width:554px){
     .top_content h1
     {
-        font-size: 100px;
+        font-size: 80px;
     }
 }
 
@@ -261,7 +261,7 @@ img.comma-sign
 }
 .fixed__icons
 {
-    position: absolute;
+    position: fixed;
     top: 0%;
     right: 3%;
     width: 30px;
